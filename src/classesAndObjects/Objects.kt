@@ -40,3 +40,28 @@ class Calculator() {
         }
     }
 }
+
+class Database private constructor() {
+     companion object {
+         private var instance: Database? = null
+
+         fun getInstance(): Database? {
+             if (instance == null) {
+                 instance = Database()
+             }
+             return instance
+         }
+     }
+}
+
+object SingletonThing {
+    init {
+        println("Singleton thing created!")
+    }
+}
+
+class Cat(val name: String, var age: Int) {
+    init {
+        println("A cat by the name of $name lives!")
+    }
+}
