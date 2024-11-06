@@ -1,15 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1916bf3f-8d97-423c-87f6-b1cb1537fe7d" name="Changes" comment="" />
+    <list default="true" id="1916bf3f-8d97-423c-87f6-b1cb1537fe7d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classesAndObjects/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/classesAndObjects/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classesAndObjects/Objects.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/classesAndObjects/Objects.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functions/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/functions/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variables/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/variables/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whenStatements/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/whenStatements/Main.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "StoyanNikolchev"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/StoyanNikolchev/KotlinLearning.git",
+    "accountId": "158c65f6-4ce8-4e28-8960-a9f6dc483c27"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -21,11 +51,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.MainKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/first" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

@@ -1,7 +1,8 @@
-package first
+package variables
 
 fun main() {
     var name: String = "Hello" //or just var name = "Hello"
+    name = "Pesho"
     val age: Int = 22 //or just val age = "Hello"
 
     val maxIntegerValue = Int.MAX_VALUE

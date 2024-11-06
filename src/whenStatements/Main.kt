@@ -1,4 +1,4 @@
-package whenStatement
+package whenStatements
 
 fun main() {
     val something = 6;
